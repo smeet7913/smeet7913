@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Smeet Nahar</h1>
-<h3 align="center">💻 Technology Enthusiast | Full Stack Developer in the Making</h3>
+<h3 align="center">💻 Technology Enthusiast </h3>
 
 ---
 
@@ -45,13 +45,6 @@ Django REST APIs powering real-time coding challenges for college tech events.
 <a href="https://github.com/smeet7913" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/smeetnahar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:smeet7913@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smeet7913&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smeet7913&layout=compact&theme=radical" alt="Top languages" height="150"/>
 </p>
 
 ---
